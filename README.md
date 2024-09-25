@@ -1,6 +1,19 @@
 # Data-Science-Projects
 Data Science Now
 
+---
+
+** PROJECT OBJECTIVES: **
+
+- Understanding fundamental data science concepts, data acquisition, cleaning, exploration, and visualization. 
+- Applying Python programming and its libraries for data manipulation and analysis. 
+- Utilizing basic statistical methods for analyzing and interpreting data effectively. 
+- Demonstrating proficiency in data preprocessing techniques, including handling missing values and outliers appropriately. 
+- Developing skills in data visualization to communicate insights effectively from data exploration. 
+- Applying machine learning techniques for predictive modeling and interpreting patterns to communicate findings to diverse audiences. 
+
+---
+
 ##Modules:
 Module 1	Introduction to Data Science.
 Module 2	Exploratory Data Analysis, Web Scraping, Statistical Methods.
